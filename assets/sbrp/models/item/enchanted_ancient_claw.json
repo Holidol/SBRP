@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sbrp:item/enchanted_ancient_claw"
+  }
+}

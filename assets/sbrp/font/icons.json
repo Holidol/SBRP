@@ -1,0 +1,202 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/hyperion.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/astraea.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/scylla.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/valkyrie.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/necron_blade.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/necron_handle.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/aspect_of_the_end.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/aspect_of_the_void.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/skyblock_menu.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/ancestral_spade.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/archaic_spade.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue00a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/deific_spade.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue00b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/daedalus_axe.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue00c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/starred_daedalus_axe.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue00d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/sword_of_revelations.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue00e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/mythos_fragment.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue00f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/daedalus_stick.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/griffin_feather.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/braided_griffin_feather.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/hilt_of_revelations.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/ancient_claw.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sbrp:gui/icons/enchanted_ancient_claw.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": [
+        "\ue015"
+      ]
+    }
+  ]
+}

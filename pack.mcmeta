@@ -1,0 +1,235 @@
+{
+  "pack": {
+    "description": {
+      "text": "",
+      "extra": [
+        {
+          "text": "Hypixel chill pack",
+          "color": "gold"
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "requirements: ",
+          "color": "red"
+        },
+        {
+          "text": "Catharsis",
+          "color": "dark_red"
+        }
+      ]
+    },
+    "min_format": 69,
+    "max_format": 255
+  },
+  "catharsis:pack/v1": {
+    "id": "sbrp",
+    "version": "2.0.0",
+    "dependencies": {
+      "catharsis": ">=1.0.0-beta.13"
+    }
+  },
+  "fabric:overlays": {
+    "entries": [
+      {
+        "directory": "item_hyperion",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_hyperion",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_astraea",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_astraea",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_scylla",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_scylla",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_valkyrie",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_valkyrie",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_necron_blade",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_necron_blade",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_necron_handle",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_necron_handle",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_aspect_of_the_end",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_aspect_of_the_end",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_aspect_of_the_void",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_aspect_of_the_void",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_skyblock_menu",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_skyblock_menu",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_ancestral_spade",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_ancestral_spade",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_archaic_spade",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_archaic_spade",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_deific_spade",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_deific_spade",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_daedalus_axe",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_daedalus_axe",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_starred_daedalus_axe",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_starred_daedalus_axe",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_sword_of_revelations",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_sword_of_revelations",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_mythos_fragment",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_mythos_fragment",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_daedalus_stick",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_daedalus_stick",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_griffin_feather",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_griffin_feather",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_braided_griffin_feather",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_braided_griffin_feather",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_hilt_of_revelations",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_hilt_of_revelations",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_ancient_claw",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_ancient_claw",
+          "value": "on"
+        }
+      },
+      {
+        "directory": "item_enchanted_ancient_claw",
+        "condition": {
+          "condition": "catharsis:config",
+          "pack": "sbrp",
+          "id": "item_enchanted_ancient_claw",
+          "value": "on"
+        }
+      }
+    ]
+  }
+}

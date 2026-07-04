@@ -1,0 +1,530 @@
+[
+  {
+    "type": "tab",
+    "title": "Things",
+    "options": [
+      {
+        "type": "separator",
+        "title": {
+          "text": "Wither Swords",
+          "bold": true,
+          "color": "yellow"
+        },
+        "description": ""
+      },
+      {
+        "type": "boolean",
+        "id": "item_hyperion",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Hyperion"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: hyperion",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_astraea",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Astraea"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: astraea",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_scylla",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Scylla"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: scylla",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_valkyrie",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Valkyrie"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: valkyrie",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_necron_blade",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Necron's Blade"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: necron_blade",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_necron_handle",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Necron's Handle"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: necron_handle",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "separator",
+        "title": {
+          "text": "Ender Weapons",
+          "bold": true,
+          "color": "yellow"
+        },
+        "description": ""
+      },
+      {
+        "type": "boolean",
+        "id": "item_aspect_of_the_end",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Aspect of the End"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: aspect_of_the_end",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_aspect_of_the_void",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Aspect of the Void"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: aspect_of_the_void",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "separator",
+        "title": {
+          "text": "Menu",
+          "bold": true,
+          "color": "yellow"
+        },
+        "description": ""
+      },
+      {
+        "type": "boolean",
+        "id": "item_skyblock_menu",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  SkyBlock Menu"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: skyblock_menu",
+          "color": "gray"
+        }
+      }
+    ]
+  },
+  {
+    "type": "tab",
+    "title": "Mythological Ritual",
+    "options": [
+      {
+        "type": "separator",
+        "title": {
+          "text": "Spades",
+          "bold": true,
+          "color": "yellow"
+        },
+        "description": ""
+      },
+      {
+        "type": "boolean",
+        "id": "item_ancestral_spade",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Ancestral Spade"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: ancestral_spade",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_archaic_spade",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Archaic Spade"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: archaic_spade",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_deific_spade",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Deific Spade"
+            }
+          ]
+        },
+        "description": {
+          "text": "Erudite reforge = animated, else normal",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "separator",
+        "title": {
+          "text": "Weapons",
+          "bold": true,
+          "color": "yellow"
+        },
+        "description": ""
+      },
+      {
+        "type": "boolean",
+        "id": "item_daedalus_axe",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Daedalus Axe"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: daedalus_axe",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_starred_daedalus_axe",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Starred Daedalus Axe"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: starred_daedalus_axe",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_sword_of_revelations",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Sword of Revelations"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: sword_of_revelations",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "separator",
+        "title": {
+          "text": "Materials",
+          "bold": true,
+          "color": "yellow"
+        },
+        "description": ""
+      },
+      {
+        "type": "boolean",
+        "id": "item_mythos_fragment",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Mythos Fragment"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: mythos_fragment",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_daedalus_stick",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Daedalus Stick"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: daedalus_stick",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_griffin_feather",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Griffin Feather"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: griffin_feather",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_braided_griffin_feather",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Braided Griffin Feather"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: braided_griffin_feather",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_hilt_of_revelations",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Hilt of Revelations"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: hilt_of_revelations",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_ancient_claw",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Ancient Claw"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: ancient_claw",
+          "color": "gray"
+        }
+      },
+      {
+        "type": "boolean",
+        "id": "item_enchanted_ancient_claw",
+        "default": true,
+        "title": {
+          "text": "",
+          "extra": [
+            {
+              "text": "",
+              "font": "sbrp:icons"
+            },
+            {
+              "text": "  Enchanted Ancient Claw"
+            }
+          ]
+        },
+        "description": {
+          "text": "Changes: enchanted_ancient_claw",
+          "color": "gray"
+        }
+      }
+    ]
+  }
+]
