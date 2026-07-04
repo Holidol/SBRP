@@ -1,9 +1,24 @@
 {
   "pack": {
     "description": {
-      "text": "Use Catharsis-1.0.0-beta.17 or higher!",
-      "color": "red",
-      "bold": true
+      "text": "",
+      "extra": [
+        {
+          "text": "Hypixel chill pack",
+          "color": "gold"
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "requirements: ",
+          "color": "red"
+        },
+        {
+          "text": "Catharsis",
+          "color": "dark_red"
+        }
+      ]
     },
     "min_format": 69,
     "max_format": 255
